@@ -377,7 +377,7 @@ async def Lazy_start():
                     [
                         [
                             InlineKeyboardButton("⚡️SФUЯCΞ CФDΞS ФF ß⊕Γ",
-                                                url="https://github.com/LazyDeveloperr/MissRozy")
+                                                url="https://github.com/AnshuK8777/file2link")
                         ],
                         [
                             InlineKeyboardButton("GФ HФMΞ", callback_data="gotohome"),
@@ -395,7 +395,7 @@ async def Lazy_start():
                     [
                         [
                             InlineKeyboardButton("⚡️SФUЯCΞ CФDΞS ФF ß⊕Γ",
-                                                url="https://github.com/LazyDeveloperr/MissRozy")
+                                                url="https://github.com/AnshuK8777/file2link")
                         ],
                         [
                             InlineKeyboardButton("🤖Aß⊕ut ß⊕t", callback_data="aboutbot"),
